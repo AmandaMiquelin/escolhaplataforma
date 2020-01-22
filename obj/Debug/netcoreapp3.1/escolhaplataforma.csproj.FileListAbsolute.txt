@@ -1,0 +1,11 @@
+c:\Users\JR\Documents\DEV_Amanda\escolhaplataforma\bin\Debug\netcoreapp3.1\escolhaplataforma.exe
+C:\Users\JR\Documents\DEV_Amanda\escolhaplataforma\bin\Debug\netcoreapp3.1\escolhaplataforma.deps.json
+C:\Users\JR\Documents\DEV_Amanda\escolhaplataforma\bin\Debug\netcoreapp3.1\escolhaplataforma.runtimeconfig.json
+C:\Users\JR\Documents\DEV_Amanda\escolhaplataforma\bin\Debug\netcoreapp3.1\escolhaplataforma.runtimeconfig.dev.json
+c:\Users\JR\Documents\DEV_Amanda\escolhaplataforma\bin\Debug\netcoreapp3.1\escolhaplataforma.dll
+c:\Users\JR\Documents\DEV_Amanda\escolhaplataforma\bin\Debug\netcoreapp3.1\escolhaplataforma.pdb
+c:\Users\JR\Documents\DEV_Amanda\escolhaplataforma\obj\Debug\netcoreapp3.1\escolhaplataforma.csprojAssemblyReference.cache
+c:\Users\JR\Documents\DEV_Amanda\escolhaplataforma\obj\Debug\netcoreapp3.1\escolhaplataforma.AssemblyInfoInputs.cache
+c:\Users\JR\Documents\DEV_Amanda\escolhaplataforma\obj\Debug\netcoreapp3.1\escolhaplataforma.AssemblyInfo.cs
+c:\Users\JR\Documents\DEV_Amanda\escolhaplataforma\obj\Debug\netcoreapp3.1\escolhaplataforma.dll
+c:\Users\JR\Documents\DEV_Amanda\escolhaplataforma\obj\Debug\netcoreapp3.1\escolhaplataforma.pdb
